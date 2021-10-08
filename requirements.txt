@@ -1,1 +1,3 @@
 praw
+pymongo
+"pymongo[srv]"
