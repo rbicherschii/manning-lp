@@ -1,0 +1,17 @@
+name: project2_env
+channels:
+- anaconda
+- conda-forge
+- defaults
+dependencies:
+  - python=3.7
+  - requests
+  - numpy
+  - matplotlib
+  - pandas
+  - notebook
+  - pip:
+    - nltk  
+    - gensim 
+    - pyldavis
+    - seaborn 
